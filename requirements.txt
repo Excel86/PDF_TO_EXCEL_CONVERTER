@@ -1,1 +1,9 @@
 streamlit
+pandas
+openpyxl
+pdfplumber
+camelot-py[cv]
+pdf2image
+pytesseract
+opencv-python
+numpy
